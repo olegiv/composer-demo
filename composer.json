@@ -11,5 +11,10 @@
             "name": "Oleg Ivanchenko"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "platform": {
+            "php": "8.1.0"
+        }
+    }
 }
